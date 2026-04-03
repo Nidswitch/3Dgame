@@ -1,0 +1,4 @@
+repository "Birdy3dArea/Birdy3dArea@3574343560590@cloud"
+  path "/"
+    br "/main"
+    co "/main"
